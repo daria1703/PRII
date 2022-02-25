@@ -1,7 +1,7 @@
 # Films
 Films jest to aplikacja webowa, która umożliwia śledzenie aktualnych zmian na rynku kryptowalut. Pomysł stworzenia takowej strony internetowej zrodził się w mojej głowie z powodu chęci nauki i pogłębiania wiedzy z zakresu wykorzystania danych pochodzących z API. Na etapie planowania zdecydowałem się wykorzystać dość popularne API dostarczane przez CoinGecko. Zadania, które przed sobą postawiłem to stworzenie pełnej warstwy wizualnej obejmującej zarówno komputery osobiste jak i urządzenia mobilne, stworzenie i wdrożenie całej logiki systemu oraz przedstawienie danych w formie możliwie jak najlepszej dla użytkownika końcowego.
 
-![cryptoMockup3](https://user-images.githubusercontent.com/76050486/155015055-19b54f88-e9c6-4dab-8474-fbb1d0384b40.png)
+![home](https://user-images.githubusercontent.com/80101842/155717823-1e4d417b-a1ed-4d82-ab95-b08e17444e19.png)
 
 # Główne założenia projektu
 Użytkownik, wchodząc na stronę internetową Cryptoranking ma możliwość śledzenia zmian kursów cenowych kryptowalut, które odświeżane są cyklicznie co 30 sekund. Stworzone zostały specjalne skrypty, które obserwują działania na rynku oraz reagują na wszelkie zmiany, sygnalizując je odpowiednimi statusami. W momencie wzrostu kursu, kolor aktualnej liczby zmieniany jest na zielony. W przypadku braku zmian, kolor pozostaje czarny, natomiast w momencie spadku cen, kolor zmienia się na czerwony. W przypadku wzrostu lub spadku, użytkownik może zaobserować dodatkowo ikony strzałek w górę oraz w dół, które mają na celu jeszcze wyraźniej wskazać aktualną sytuację.
