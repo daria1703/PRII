@@ -8,8 +8,9 @@ Użytkownik, wchodząc na stronę internetową Films ma możliwość zobaczenia 
 ![home](https://user-images.githubusercontent.com/80101842/155717823-1e4d417b-a1ed-4d82-ab95-b08e17444e19.png)
 
 ### Podstrona filmu
+Znajdują się tutaj wszystkie niezbędne informacje o danym filmie/serialu takie jak tutuł, opis, grafika. Przycisk "Back" umieszczony na tej postronie umożliwia użytkownikowi powrót do strony głównej.
 
-
+![podstrona filmu](https://user-images.githubusercontent.com/80101842/155860321-1fac0e33-6f4b-49f4-8d68-e5765d4a21ae.png)
 
 # Proces tworzenia projektu
 Projekt zrealizowany został przy wykorzystaniu podstawowych narzędzi, służących zarówno do projektowania warstwy wizualnej jak i do kodowania strony internetowej. W trakcie pracy użyłem programów **Figma** oraz **Visual Studio Code**. Do kontroli wersji oprogramowania, standardowo skorzystałem z **Github**.
